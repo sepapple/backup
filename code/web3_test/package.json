@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+        "keythereum-pure-js": "^1.1.9",
+        "n": "^6.6.0",
+        "web3": "^1.2.8"
+    }
+}
